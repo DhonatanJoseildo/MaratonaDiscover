@@ -37,7 +37,7 @@ a{
     text-decoration: none;
 }
 a:hover {
-    color: var(--light-green)5;
+    color: var(--light-green);
 }
 .button .new{
     margin-bottom: .8rem;
